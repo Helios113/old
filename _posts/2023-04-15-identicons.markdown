@@ -17,6 +17,6 @@ To create this randomness, I decided to go with a Monte-Carlo algorithm (I have 
 
 The final product is on my github: [https://github.com/Helios113/identicons](https://github.com/Helios113/identicons)
 
-Here is a sample of what I made:
+Here is a sample of what I made:   
 
 <img src="../img.png" alt="img" class="img-responsive" width=50% height=50% />
