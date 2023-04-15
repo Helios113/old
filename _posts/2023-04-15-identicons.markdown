@@ -2,7 +2,7 @@
 layout: post
 title: "Monte-Carlo identicons"
 date: 2023-04-15 17:45:00 -0000
-categories: CATEGORY-1 CATEGORY-2
+categories: posts
 ---
 
 # Monte-Carlo identicons
