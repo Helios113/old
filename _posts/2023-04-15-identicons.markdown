@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monte-Carlo identicons"
-date: 2023-04-15 17:45:00 +1000
+date: 2023-04-15 17:45:00 +0100
 categories: posts
 ---
 
